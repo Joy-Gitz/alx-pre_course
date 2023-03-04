@@ -1,1 +1,1 @@
-My first readme
+How to stay motivated
